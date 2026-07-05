@@ -4,6 +4,7 @@
     "display": "AssetHub",
     "rpcs": {
       "Dwellir": "wss://asset-hub-polkadot-rpc.n.dwellir.com",
+      "Gatotech Unlimited": "wss://asset-hub-polkadot.gatotech.network",
       "LuckyFriday": "wss://rpc-asset-hub-polkadot.luckyfriday.io",
       "Parity": "wss://polkadot-asset-hub-rpc.polkadot.io",
       "Stakeworld": "wss://dot-rpc.stakeworld.io/assethub"
@@ -26,6 +27,7 @@
     "rpcs": {
       "Allnodes": "wss://polkadot-rpc.publicnode.com",
       "Dwellir": "wss://polkadot-rpc.n.dwellir.com",
+      "Gatotech Unlimited": "wss://polkadot.gatotech.network",    
       "Helixstreet": "wss://rpc-polkadot.helixstreet.io",
       "LuckyFriday": "wss://rpc-polkadot.luckyfriday.io",
       "OnFinality": "wss://polkadot.api.onfinality.io/public-ws",
