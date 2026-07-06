@@ -33,47 +33,6 @@
     }
   },
   {
-    "id": "paseo_bridge_hub",
-    "display": "Paseo BridgeHub",
-    "rpcs": {
-
-    },
-    "relayChainInfo": {
-      "id": "paseo",
-      "isSystem": true,
-      "parachain": 1002
-    },
-    "nativeToken": {
-      "symbol": "PAS",
-      "decimals": 12
-    },
-    "hasChainSpecs": false
-  },
-  {
-    "id": "paseo_collectives",
-    "display": "Collectives",
-    "rpcs": {
-
-    }
-  },
-  {
-    "id": "paseo_coretime",
-    "display": "Paseo Coretime",
-    "rpcs": {
-      "ParaNodes": "wss://paseo-coretime.paranodes.io"
-    },
-    "relayChainInfo": {
-      "id": "paseo",
-      "isSystem": true,
-      "parachain": 1005
-    },
-    "nativeToken": {
-      "symbol": "PAS",
-      "decimals": 12
-    },
-    "hasChainSpecs": false
-  },
-  {
     "id": "paseo_people_chain",
     "display": "Paseo People",
     "rpcs": {
